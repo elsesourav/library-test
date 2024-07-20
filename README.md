@@ -59,7 +59,7 @@ const $$ = (selector) => {
 };
 ```
 
-## New Updated Library
+## `New Updated Library`
 
 ```js
 (() => {
